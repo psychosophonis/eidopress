@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ffffff
+	height: 100%;
+}
+
+a, a:link, a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#pholderimg{
+	position: relative;
+	width: 65%;
+	max-width: 698px;
+}
+
+#pholder {
+	position: absolute;
+	top: 25%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	}
+	
